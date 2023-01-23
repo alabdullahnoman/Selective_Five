@@ -1,0 +1,35 @@
+#font{
+    font-family: 'Berkshire Swash', cursive;
+}
+.card{
+    border: 1px solid gray;
+}
+.goal-assist{
+
+    color:  #B3B3B3;
+    
+}
+.goal-assist{
+
+    color:  #B3B3B3;
+    
+}
+.budget{
+
+    color:  #B3B3B3;
+    
+}
+
+.card img{
+
+    width: 310px;
+}
+.totalll{
+
+    color: #FF5E19;
+    ;
+}
+li{
+
+    margin-bottom: 16px;
+}
